@@ -1,2 +1,2 @@
 # hello-world-
-Github Hello World tutorial 
+A repo following the Github Hello World tutorial 
